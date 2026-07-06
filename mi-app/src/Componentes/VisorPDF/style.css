@@ -2,7 +2,7 @@
 .form-panel {
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
+    gap: 1rem;
   background-color: #1a1b1b;
 border-radius: 12px;
     padding: 0.5rem;
